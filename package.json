@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dremixam/lou.lt.git"
+    "url": "git://github.com/Conceptinfo/BaseProject.git"
   },
   "license": "Proprietary",
   "bugs": {
-    "url": "https://github.com/dremixam/lou.lt/issues"
+    "url": "https://github.com/Conceptinfo/BaseProject/issues"
   },
-  "homepage": "https://github.com/dremixam/lou.lt",
+  "homepage": "https://github.com/Conceptinfo/BaseProject",
   "private": true
 }
