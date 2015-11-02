@@ -1,5 +1,12 @@
-# https://git-scm.com/docs/gitignore
-# https://help.github.com/articles/ignoring-files
-# Example .gitignore files: https://github.com/github/gitignore
-/bower_components/
-/node_modules/
+# Dependency directory
+# Deployed apps should consider commenting this line out:
+# see https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
+node_modules
+
+/static/dist/
+/static/dist/*
+.sass-cache
+.sass-cache/*
+/static/**/.*/*
+!.gitignore
+/config.json
